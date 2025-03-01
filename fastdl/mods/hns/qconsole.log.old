@@ -1,0 +1,35 @@
+
+Logfile opened on Sat Mar 01 18:15:28 2025
+
+
+g_gametype will be changed upon restarting.
+Loading fastfile 'code_post_gfx_mp'
+used 0.47 MB memory in DB alloc
+Loaded fastfile 'code_post_gfx_mp' in 26ms (17ms waiting)
+Loading fastfile 'localized_code_post_gfx_mp'
+used 0.69 MB memory in DB alloc
+Loaded fastfile 'localized_code_post_gfx_mp' in 18ms (7ms waiting)
+Loading fastfile 'common_mp'
+used 39.00 MB memory in DB alloc
+Loaded fastfile 'common_mp' in 249ms (114ms waiting)
+Loading fastfile 'mod'
+used 6.99 MB memory in DB alloc
+Loaded fastfile 'mod' in 41ms (10ms waiting)
+quitting...
+All plugins have terminated
+Unloading assets from fastfile 'mod' and deleting all assets
+Unloading assets from fastfile 'common_mp' and deleting all assets
+Unloading assets from fastfile 'localized_code_post_gfx_mp' and deleting all assets
+Unloading assets from fastfile 'code_post_gfx_mp' and deleting all assets
+Unloaded fastfile 'mod'
+PMem_Free( mod, Low )
+PMem_Free( mod, High )
+Unloaded fastfile 'common_mp'
+PMem_Free( common_mp, Low )
+PMem_Free( common_mp, High )
+Unloaded fastfile 'localized_code_post_gfx_mp'
+PMem_Free( localized_code_post_gfx_mp, Low )
+PMem_Free( localized_code_post_gfx_mp, High )
+Unloaded fastfile 'code_post_gfx_mp'
+PMem_Free( code_post_gfx_mp, Low )
+PMem_Free( code_post_gfx_mp, High )

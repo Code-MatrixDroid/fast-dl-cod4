@@ -1,0 +1,24 @@
+mp_surv_ZombieDesert
+
+made by: Efraxskills.
+
+build time: 3 days
+
+installation:
+
+put the mp_surv_ZombieDesert folder into usermaps direction: c:/activision/call of duty:modern warfare/usermaps
+(the mp_surv_ZombieDesert.iwd goes to mods/reingoftheundead folder).
+
+credits to:
+
+bipoalarmonk   ---------> RotU mod
+viking         ---------> RotU mapping tutorial.
+
+
+thanks for download this map, enjoy it !!!!
+
+
+
+for bugs, suggestions contact me :
+
+http://www.moddb.com/members/efraxskills
